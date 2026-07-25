@@ -33,3 +33,9 @@
 <b>The app is also able to share information between the different matlab apps (each of the different screens) using app input arguments. The information shared is both the dataset and the roles selected. </b>
 
 ---
+
+## Additional Documents
+
+Final Presentation: https://canva.link/f06hy9lwurpsxpy
+App Blueprint: https://docs.google.com/presentation/d/1j8mY8xf4Q9ETaAddmh3XROeQtL1dLrkUkpqDxv_AM0U/edit?usp=sharing
+Proposal Presentation: https://docs.google.com/presentation/d/1EoSE1W4O2Fz6MxACMT7q58K23e7oOyYb0BtxsZxoqws/edit?usp=sharing
