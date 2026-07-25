@@ -1,4 +1,4 @@
-# RTRN-CRIKT
+# Chirp AQI by RTRN CRIKT
 <b> By Team 9  &#129431;<br><b>
 
 ## Quick App Overview:
